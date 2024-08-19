@@ -1,0 +1,28 @@
+LOG_INFO
+LAT_LORA1: -20.000000
+LONG_LORA1: -20.000000
+LAT_LORA2: -30.000000
+LONG_LORA2: -30.000000
+START_OF_LOG: 2024-08-18 17:40:01
+LOG_SAMPLING_TIME: 25
+
+
+LoRa Initializing OK
+
+Mensagem recebida: Hello im random sender. RSSI: 0
+Mensagem enviada: Hello im random sender. RSSI: -27
+
+Mensagem recebida: Hello im random sender. RSSI: -24
+Mensagem enviada: Hello im random sender. RSSI: -26
+
+Mensagem recebida: Hello im random sender. RSSI: -23
+
+Mensagem enviada: Hello im random sender. RSSI: -25
+
+Mensagem recebida: Hello im random sender. RSSI: -25
+Mensagem enviada: Hello im random sender. RSSI: -27
+
+Mensagem recebida: Hello im random sender. RSSI: -25
+
+
+
